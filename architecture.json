@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_surrealist_class_struggle",
+  "title": "The Ashtray of the Phoenix",
+  "tagline": "In a desert of forgotten gods, a thief must steal a revolution from the ashes of the past.",
+  "target_words": 70000,
+  "actual_words": 75053,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corporeality of Oppression",
+    "Surrealist Cartography of Power",
+    "The Alchemy of Rage",
+    "Haunted Patrimony"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Dead Snake",
+      "words": 3127
+    },
+    {
+      "ch": 2,
+      "title": "A Cataclysm of Hills",
+      "words": 3127
+    },
+    {
+      "ch": 3,
+      "title": "The Bruise of San Ignacio",
+      "words": 3127
+    },
+    {
+      "ch": 4,
+      "title": "The Blue Chevrolet",
+      "words": 3127
+    },
+    {
+      "ch": 5,
+      "title": "Hacienda La Lumbre",
+      "words": 3127
+    },
+    {
+      "ch": 6,
+      "title": "The Library of Echoes",
+      "words": 3127
+    },
+    {
+      "ch": 7,
+      "title": "The Object Without a Name",
+      "words": 3127
+    },
+    {
+      "ch": 8,
+      "title": "The Conductor's Fist",
+      "words": 3127
+    },
+    {
+      "ch": 9,
+      "title": "Salt and Salsa",
+      "words": 3127
+    },
+    {
+      "ch": 10,
+      "title": "The Dry Breast",
+      "words": 3127
+    },
+    {
+      "ch": 11,
+      "title": "El Benefactor's Shadow",
+      "words": 3127
+    },
+    {
+      "ch": 12,
+      "title": "The Search",
+      "words": 3127
+    },
+    {
+      "ch": 13,
+      "title": "The Laborer's Calculus",
+      "words": 3127
+    },
+    {
+      "ch": 14,
+      "title": "A Spark in the Acid",
+      "words": 3127
+    },
+    {
+      "ch": 15,
+      "title": "The Locked Door",
+      "words": 3127
+    },
+    {
+      "ch": 16,
+      "title": "The Weight of Brass",
+      "words": 3127
+    },
+    {
+      "ch": 17,
+      "title": "The Shattered Glass",
+      "words": 3127
+    },
+    {
+      "ch": 18,
+      "title": "The Cold Beer",
+      "words": 3127
+    },
+    {
+      "ch": 19,
+      "title": "The Phoenix Unsealed",
+      "words": 3127
+    },
+    {
+      "ch": 20,
+      "title": "What Rises from Ash",
+      "words": 3127
+    },
+    {
+      "ch": 21,
+      "title": "The Thief's Choice",
+      "words": 3127
+    },
+    {
+      "ch": 22,
+      "title": "The Map in the Bone",
+      "words": 3127
+    },
+    {
+      "ch": 23,
+      "title": "The Final Nerve",
+      "words": 3127
+    },
+    {
+      "ch": 24,
+      "title": "A New Pulse",
+      "words": 3127
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the infant on the train, experiencing the heat, thirst, and rising tension as pure, synesthetic sensation.",
+      "Create a 'found document'—a ledger page from Hacienda La Lumbre, a revolutionary pamphlet hidden in the library, or a love letter—that reveals a hidden layer of the class conflict.",
+      "Narrate the history of the brass ashtray, from its forging to its moment of liberation, as a silent witness to decades of oppression and resistance.",
+      "Describe a surrealist 'manifestation' of class rage in San Ignacio: perhaps the statues of founders begin to weep salt, or the streets develop a hunger that only consumes the wealthy."
+    ],
+    "technical": [
+      "Build an interactive map of the train, the desert, and the hacienda, where hovering over locations triggers sensory descriptions (smells, sounds, textures) and fragments of character memory.",
+      "Create a text generator that produces 'Surrealist Class Struggle Proclamations' in the style of the novel, using a vocabulary bank of bodily, geological, and archaic terms."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Leonora Carrington",
+      "Frantz Fanon",
+      "Juan Rulfo"
+    ]
+  },
+  "cover_prompt": "A gaunt thief, their face etched with the grit of the desert, clutches a smoldering ceramic ashtray from which a spectral, half-formed phoenix of ash and ember struggles to ascend, [Detailed Scene & Context] in the ruins of a colossal, sand-blasted cathedral where the stone saints have melted into liquid shapes and the floor is a mosaic of shattered revolutionary icons, under a sky charted with surreal, oppressive constellations that mirror the city's slums below, [Artistic Style & Medium] in the atmospheric style of Leonora Carrington and Remedios Varo, rendered in hyper-detailed oil painting with textures of cracked clay, drifting ash, and luminous, alchemical pigments, [Composition & Camera] book cover framing with a centered, dramatic low-angle shot that emphasizes the towering, haunted architecture bearing down on the figure, creating a sense of monumental struggle, [Lighting & Color Palette] dramatic chiaroscuro lighting from the ashtray's internal glow and a searing desert sun, casting long, distorted shadows, using a palette of burnt sienna, deep ochre, spectral cobalt, and the violent, radiant gold of molten metal, [Quality & Technical Enforcers] masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
