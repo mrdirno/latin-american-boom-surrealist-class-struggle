@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The train was a dead snake, and the people were its final, twitching nerves.
+Mendoza’s mule dissolved into a swarm of copper coins at the city gates. The aristocrats’ automobiles, polished to liquid obsidian, drank the shimmering cascade from the gutters without slowing. His own two feet, suddenly too solid, too real, began sinking into the cobblestones as if the street remembered the weight of every peasant who had ever walked it.
+
 
 It lay across the salt flat, a mile-long sigh of rusted steel, its windows blind with dust. The sun, a white coin nailed to the sky, had boiled the hope out of the air. Inside the third-class carriage, the heat was a solid thing, a woolen blanket soaked in brine and pressed against the face. It smelled of old sweat, of dried urine from the clogged toilet at the end of the car, of the ghost of oranges long eaten.
 
